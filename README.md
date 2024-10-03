@@ -1,4 +1,6 @@
-   ![My avatar](https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/448305906_1138887564038019_6460362231864199830_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=IJGV4FAtydIQ7kNvgFh-yZD&_nc_ht=scontent.fsgn1-1.fna&_nc_gid=AYmnedo5YFlK7ow3qm3RxOk&oh=00_AYAzVILP7zfGv7OsXNxdI3gIx2plWpRtUt15OECXyR0L-Q&oe=6703D984)
+<div style="">
+ <img src="https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/448305906_1138887564038019_6460362231864199830_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=IJGV4FAtydIQ7kNvgFh-yZD&_nc_ht=scontent.fsgn1-1.fna&_nc_gid=AYmnedo5YFlK7ow3qm3RxOk&oh=00_AYAzVILP7zfGv7OsXNxdI3gIx2plWpRtUt15OECXyR0L-Q&oe=6703D984" width="200" height="150">
+</div>
 
  ## 👋 Hello! I'm [Nguyen Thanh Nhan]
 - 💻 Software Engineer
